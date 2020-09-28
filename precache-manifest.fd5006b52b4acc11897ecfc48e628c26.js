@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cde46118c0a98e269a0b39768e0d9d97",
+    "revision": "5c6379f183f61d89ffb1c0b8f89f2355",
     "url": "/tartak-react-project/index.html"
   },
   {
-    "revision": "d0266e46265f2a094173",
+    "revision": "00419b4cc0b8df3a32d0",
     "url": "/tartak-react-project/static/css/main.4f397a02.chunk.css"
   },
   {
-    "revision": "136055bd21d8083573cb",
-    "url": "/tartak-react-project/static/js/2.f21160d3.chunk.js"
+    "revision": "c15661bb00adaf357a0e",
+    "url": "/tartak-react-project/static/js/2.3c49ac6c.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/tartak-react-project/static/js/2.f21160d3.chunk.js.LICENSE.txt"
+    "url": "/tartak-react-project/static/js/2.3c49ac6c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d0266e46265f2a094173",
-    "url": "/tartak-react-project/static/js/main.03edb730.chunk.js"
+    "revision": "00419b4cc0b8df3a32d0",
+    "url": "/tartak-react-project/static/js/main.c249a2fd.chunk.js"
   },
   {
-    "revision": "685f63de4b173d092661",
-    "url": "/tartak-react-project/static/js/runtime-main.c379ff86.js"
+    "revision": "05008de5ad3c5eb1c36f",
+    "url": "/tartak-react-project/static/js/runtime-main.742be435.js"
   },
   {
     "revision": "504d9307a16351644b703c6e9bd7e1c7",
