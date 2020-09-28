@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tartak-react-project/precache-manifest.fd5006b52b4acc11897ecfc48e628c26.js"
+  "/tartak-react-project/precache-manifest.157a69ea34d8ca6c5803cdd384b88663.js"
 );
 
 self.addEventListener('message', (event) => {

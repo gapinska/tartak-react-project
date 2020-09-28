@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c6379f183f61d89ffb1c0b8f89f2355",
+    "revision": "ee84cbbf771e180a09186dc59808bf14",
     "url": "/tartak-react-project/index.html"
   },
   {
-    "revision": "00419b4cc0b8df3a32d0",
+    "revision": "4ec565e491b4b6ed6fd2",
     "url": "/tartak-react-project/static/css/main.4f397a02.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tartak-react-project/static/js/2.3c49ac6c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "00419b4cc0b8df3a32d0",
-    "url": "/tartak-react-project/static/js/main.c249a2fd.chunk.js"
+    "revision": "4ec565e491b4b6ed6fd2",
+    "url": "/tartak-react-project/static/js/main.5be69ca5.chunk.js"
   },
   {
     "revision": "05008de5ad3c5eb1c36f",
