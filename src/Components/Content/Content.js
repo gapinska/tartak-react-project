@@ -14,6 +14,7 @@ import AboutUs from "../AboutUs/AboutUs"
 import Offer from "../Offer/Offer"
 
 const Contact = () => <h1>Kontakt</h1>
+const title = () => <h1>jkjk</h1>
 
 class Header extends Component {
   state = {
