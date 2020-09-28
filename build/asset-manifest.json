@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/tartak-react-project/static/css/main.4f397a02.chunk.css",
-    "main.js": "/tartak-react-project/static/js/main.03edb730.chunk.js",
-    "main.js.map": "/tartak-react-project/static/js/main.03edb730.chunk.js.map",
-    "runtime-main.js": "/tartak-react-project/static/js/runtime-main.c379ff86.js",
-    "runtime-main.js.map": "/tartak-react-project/static/js/runtime-main.c379ff86.js.map",
-    "static/js/2.f21160d3.chunk.js": "/tartak-react-project/static/js/2.f21160d3.chunk.js",
-    "static/js/2.f21160d3.chunk.js.map": "/tartak-react-project/static/js/2.f21160d3.chunk.js.map",
+    "main.js": "/tartak-react-project/static/js/main.5be69ca5.chunk.js",
+    "main.js.map": "/tartak-react-project/static/js/main.5be69ca5.chunk.js.map",
+    "runtime-main.js": "/tartak-react-project/static/js/runtime-main.742be435.js",
+    "runtime-main.js.map": "/tartak-react-project/static/js/runtime-main.742be435.js.map",
+    "static/js/2.3c49ac6c.chunk.js": "/tartak-react-project/static/js/2.3c49ac6c.chunk.js",
+    "static/js/2.3c49ac6c.chunk.js.map": "/tartak-react-project/static/js/2.3c49ac6c.chunk.js.map",
     "index.html": "/tartak-react-project/index.html",
-    "precache-manifest.fccbaa885fd511c7629941601d189749.js": "/tartak-react-project/precache-manifest.fccbaa885fd511c7629941601d189749.js",
+    "precache-manifest.157a69ea34d8ca6c5803cdd384b88663.js": "/tartak-react-project/precache-manifest.157a69ea34d8ca6c5803cdd384b88663.js",
     "service-worker.js": "/tartak-react-project/service-worker.js",
     "static/css/main.4f397a02.chunk.css.map": "/tartak-react-project/static/css/main.4f397a02.chunk.css.map",
-    "static/js/2.f21160d3.chunk.js.LICENSE.txt": "/tartak-react-project/static/js/2.f21160d3.chunk.js.LICENSE.txt",
+    "static/js/2.3c49ac6c.chunk.js.LICENSE.txt": "/tartak-react-project/static/js/2.3c49ac6c.chunk.js.LICENSE.txt",
     "static/media/banner-1.jpg": "/tartak-react-project/static/media/banner-1.504d9307.jpg",
     "static/media/banner-2.jpg": "/tartak-react-project/static/media/banner-2.cfdabe7f.jpg",
     "static/media/banner-3.jpg": "/tartak-react-project/static/media/banner-3.dbe55225.jpg",
@@ -27,9 +27,9 @@
     "static/media/wood-img.jpg": "/tartak-react-project/static/media/wood-img.b4e3b44f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c379ff86.js",
-    "static/js/2.f21160d3.chunk.js",
+    "static/js/runtime-main.742be435.js",
+    "static/js/2.3c49ac6c.chunk.js",
     "static/css/main.4f397a02.chunk.css",
-    "static/js/main.03edb730.chunk.js"
+    "static/js/main.5be69ca5.chunk.js"
   ]
 }

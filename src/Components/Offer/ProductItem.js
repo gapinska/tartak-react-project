@@ -7,7 +7,10 @@ const ProductItem = (props) => {
       category={props.category}
       onClick={props.onClick}
     >
-      <img src={"products/" + props.productImg} alt="" />
+      <img
+        src={process.env.PUBLIC_URL + "/products/" + props.productImg}
+        alt=""
+      />
       <header>{props.name}</header>
     </div>
   )
