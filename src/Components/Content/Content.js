@@ -12,9 +12,7 @@ import MenuClose from "../../img/menu-close.png"
 import Home from "../Home/Home"
 import AboutUs from "../AboutUs/AboutUs"
 import Offer from "../Offer/Offer"
-
-const Contact = () => <h1>Kontakt</h1>
-const title = () => <h1>jkjk</h1>
+import Contact from "../Contact/Contact"
 
 class Header extends Component {
   state = {
