@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "homepage": "http://gapinska.github.io",
-=======
   "homepage": "http://gapinska.github.io/tartak-react-project/",
->>>>>>> 12f1a24fb06ae4a89e7453bae51108dcc3060222
   "name": "tartak",
   "version": "0.1.0",
   "private": true,
