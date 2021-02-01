@@ -3,100 +3,37 @@
     {
       "id": 1,
       "category": "all",
-      "name": "wszystkie",
-      "productImg": "ho-skinny-main.jpg",
-      "productImg1": "ho-skinny-1.jpg",
-      "productImg2": "ho-skinny-2-closeUp.jpg",
-      "productImg-mobile": "skinny-mobile.jpg",
-      "text": {
-        "text-1": "mid-rise",
-        "text-2": "slim",
-        "text-3": "skinny"
-      }
+      "name": "wszystkie"
     },
     {
       "id": 2,
       "category": 1,
-      "name": "tarcica stolarska",
-      "productImg": "slouchy-main.jpg",
-      "productImg1": "slouchy-1.jpg",
-      "productImg2": "slouchy-2.jpg",
-      "productImg-mobile": "slouchy-mobile.jpg",
-      "text": {
-        "text-1": "high-rise",
-        "text-2": "tappered",
-        "text-3": "very loose"
-      }
+      "name": "tarcica stolarska"
     },
     {
       "id": 3,
       "category": 2,
-      "name": "tarcica konstrukcyjna",
-      "productImg": "highwaist-all-main.jpg",
-      "productImg1": "highwaist-1.jpg",
-      "productImg2": "highwaist-2.jpg",
-      "productImg-mobile": "highwaist-mobile.jpg",
-      "text": {
-        "text-1": "high-rise",
-        "text-2": "slim",
-        "text-3": "skinny"
-      }
+      "name": "tarcica konstrukcyjna"
     },
     {
       "id": 4,
       "category": 3,
-      "name": "tarcica strugana",
-      "productImg": "ho-skinny-main.jpg",
-      "productImg1": "ho-skinny-1.jpg",
-      "productImg2": "ho-skinny-2-closeUp.jpg",
-      "productImg-mobile": "skinny-mobile.jpg",
-      "text": {
-        "text-1": "mid-rise",
-        "text-2": "slim",
-        "text-3": "skinny"
-      }
+      "name": "tarcica strugana"
     },
     {
       "id": 5,
       "category": 4,
-      "name": "drewno do wnętrz",
-      "productImg": "slouchy-main.jpg",
-      "productImg1": "slouchy-1.jpg",
-      "productImg2": "slouchy-2.jpg",
-      "productImg-mobile": "slouchy-mobile.jpg",
-      "text": {
-        "text-1": "high-rise",
-        "text-2": "tappered",
-        "text-3": "very loose"
-      }
+      "name": "drewno do wnętrz"
     },
     {
       "id": 6,
       "category": 5,
-      "name": "drewno energetyczne",
-      "productImg": "highwaist-all-main.jpg",
-      "productImg1": "highwaist-1.jpg",
-      "productImg2": "highwaist-2.jpg",
-      "productImg-mobile": "highwaist-mobile.jpg",
-      "text": {
-        "text-1": "high-rise",
-        "text-2": "slim",
-        "text-3": "skinny"
-      }
+      "name": "drewno energetyczne"
     },
     {
       "id": 7,
       "category": 6,
-      "name": "usługi",
-      "productImg": "highwaist-all-main.jpg",
-      "productImg1": "highwaist-1.jpg",
-      "productImg2": "highwaist-2.jpg",
-      "productImg-mobile": "highwaist-mobile.jpg",
-      "text": {
-        "text-1": "high-rise",
-        "text-2": "slim",
-        "text-3": "skinny"
-      }
+      "name": "usługi"
     }
   ],
   "category-products": [

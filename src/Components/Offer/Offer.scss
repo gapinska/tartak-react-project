@@ -1,45 +1,58 @@
+$itemBtnColor: #bd965a;
+$itemBtnColorHover: (#dbb377);
+
 .products-container {
-  display: flex;
-  margin: 30px 0;
-  overflow: scroll;
-  box-sizing: border-box;
+	display: flex;
+	margin: 30px 0;
+	overflow: scroll;
+	box-sizing: border-box;
+	justify-content: center;
 
-  &::-webkit-scrollbar {
-    display: none;
-  }
+	&::-webkit-scrollbar {
+		display: none;
+	}
 
-  .product-container {
-    cursor: pointer;
-    min-width: 100px;
-    margin: 0px 5px;
-  }
+	.product-container {
+		cursor: pointer;
+		min-width: 100px;
+		margin: 0px 5px;
+	}
 
-  img {
-    width: 95%;
-    margin: 0 auto;
-    border-radius: 50%;
-    display: block;
-  }
+	img {
+		width: 95%;
+		margin: 0 auto;
+		border-radius: 50%;
+		display: block;
+	}
 
-  header {
-    text-transform: uppercase;
-    font-size: 12px;
-    text-align: center;
-    letter-spacing: 0.26px;
-    margin: 10px 0;
-    font-family: "PT Sans", Arial, sans-serif;
-  }
+	header {
+		text-transform: uppercase;
+		font-size: 12px;
+		text-align: center;
+		letter-spacing: 0.26px;
+		margin: 10px 0;
+		font-family: "PT Sans", Arial, sans-serif;
+	}
+
+	.item-btn {
+		background-color: $itemBtnColor;
+		color: white;
+	}
+}
+
+.item-btn.MuiButton-contained:hover {
+	background-color: $itemBtnColorHover;
 }
 
 @media screen and (min-width: 1270px) {
-  .product-container {
-    header {
-      font-size: 14px;
-    }
+	.product-container {
+		header {
+			font-size: 14px;
+		}
 
-    img {
-      width: 90%;
-      border-radius: initial;
-    }
-  }
+		img {
+			width: 90%;
+			border-radius: initial;
+		}
+	}
 }
