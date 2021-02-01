@@ -1,6 +1,7 @@
 $sloganColor: #1d1d1d;
 $text: $sloganColor;
-$aboutUsMainContentColor: #407512;
+$aboutUsMainContentColor: #bd965a;
+$brand-name: #2b2a2a;
 
 .branch {
 	width: 93%;
@@ -48,6 +49,7 @@ $aboutUsMainContentColor: #407512;
 .about-us-brand-name {
 	font-size: 20px;
 	font-style: italic;
+	color: $brand-name;
 
 	&:after {
 		margin-left: auto;
