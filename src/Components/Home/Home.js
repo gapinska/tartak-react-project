@@ -18,7 +18,9 @@ const Home = () => {
 			<div className="container">
 				<div className="container-img">
 					<img src={Img1} alt="" />
-					<div className="banner-text">TARTAK LORKI W SERCU LASU</div>
+					<div className="banner-text">
+						TARTAK LORKI <br /> W SAMYM SERCU LASU
+					</div>
 				</div>
 			</div>
 			<div className="container-1">

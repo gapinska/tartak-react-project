@@ -193,7 +193,7 @@ li a {
 	}
 
 	.logo {
-		margin-left: 150px;
+		margin-left: 16px;
 		padding-bottom: 15px;
 	}
 
@@ -220,6 +220,12 @@ li a {
 	}
 }
 
+@media screen and (min-width: 1350px) {
+	.info-container {
+		top: 13%;
+	}
+}
+
 @media screen and (min-width: 1430px) {
 	.text-logo {
 		left: -69.5%;
@@ -230,6 +236,10 @@ li a {
 	.text-logo {
 		left: -73.5%;
 	}
+
+	.navbar-contact {
+		right: 14.25%;
+	}
 }
 
 @media screen and (min-width: 1910px) {
@@ -238,10 +248,14 @@ li a {
 	}
 
 	.logo {
-		margin-left: 294px;
+		margin-left: 126px;
 	}
 
 	.menu-wrapper {
 		padding-bottom: 5px;
+	}
+
+	.navbar-contact {
+		right: 9.25%;
 	}
 }

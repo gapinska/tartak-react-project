@@ -9,11 +9,12 @@ $contentAfterColor: #bd965a;
 
 .banner-text {
 	position: relative;
-	top: -15%;
+	top: -18%;
 	color: white;
 	font-style: italic;
 	text-align: right;
 	padding-right: 20px;
+	letter-spacing: 1px;
 }
 
 .container img,
@@ -184,7 +185,7 @@ $contentAfterColor: #bd965a;
 	}
 
 	.banner-text {
-		top: -12%;
+		top: -16%;
 		padding-right: 24px;
 		font-size: 34px;
 	}
@@ -203,7 +204,7 @@ $contentAfterColor: #bd965a;
 	}
 
 	.banner-text {
-		top: -29%;
+		top: -32%;
 		padding-right: 50px;
 		font-size: 48px;
 	}
@@ -319,9 +320,34 @@ $contentAfterColor: #bd965a;
 	}
 }
 
+@media screen and (min-width: 1350px) {
+	.product-icon .product-title {
+		top: 90%;
+	}
+}
+
 @media screen and (min-width: 1430px) {
 	.footer .brand-name {
 		font-size: 45px;
+	}
+
+	.text-logo {
+		left: -77.5%;
+	}
+}
+
+@media screen and (min-width: 1650px) {
+	.info-container {
+		top: 9%;
+	}
+
+	.product-icon .product-title {
+		top: 92%;
+	}
+
+	.banner-text {
+		top: -28%;
+		font-size: 54px;
 	}
 }
 
@@ -350,5 +376,14 @@ $contentAfterColor: #bd965a;
 				width: 119px;
 			}
 		}
+	}
+
+	.product-icon .product-title {
+		top: 93%;
+	}
+
+	.banner-text {
+		top: -27%;
+		font-size: 62px;
 	}
 }
