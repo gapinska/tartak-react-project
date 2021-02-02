@@ -1,12 +1,14 @@
 $itemBtnColor: #bd965a;
 $itemBtnColorHover: (#dbb377);
+$activeBtnBgColor: #3d3d3d;
 
 .products-container {
 	display: flex;
-	margin: 30px 0;
+
+	margin: 30px 0 30px 10px;
+
 	overflow: scroll;
 	box-sizing: border-box;
-	justify-content: center;
 
 	&::-webkit-scrollbar {
 		display: none;
@@ -14,8 +16,13 @@ $itemBtnColorHover: (#dbb377);
 
 	.product-container {
 		cursor: pointer;
-		min-width: 100px;
-		margin: 0px 5px;
+		padding-right: 10px;
+
+		&.active {
+			.item-btn {
+				background-color: $activeBtnBgColor;
+			}
+		}
 	}
 
 	img {
@@ -37,11 +44,26 @@ $itemBtnColorHover: (#dbb377);
 	.item-btn {
 		background-color: $itemBtnColor;
 		color: white;
+		width: 150px;
+		height: 65px;
 	}
 }
 
 .item-btn.MuiButton-contained:hover {
 	background-color: $itemBtnColorHover;
+}
+
+@media screen and (min-width: 1015px) {
+	.products-container {
+		justify-content: center;
+		margin: 30px 0;
+
+		.product-container {
+			min-width: 100px;
+			margin: 0px 5px;
+			padding-right: 0;
+		}
+	}
 }
 
 @media screen and (min-width: 1270px) {

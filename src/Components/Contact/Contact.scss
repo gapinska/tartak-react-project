@@ -33,3 +33,26 @@
 		font-weight: bold;
 	}
 }
+
+@media screen and (min-width: 1400px) {
+	.contact-main-container {
+		display: flex;
+		justify-content: space-around;
+		flex-flow: row-reverse;
+		align-items: center;
+	}
+
+	.map-container {
+		max-width: 40vw;
+		margin: 100px 0;
+		padding: 0;
+
+		iframe {
+			width: 40vw;
+		}
+	}
+
+	.content-data {
+		margin: 0 79px 0 0;
+	}
+}

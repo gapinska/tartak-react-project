@@ -17,12 +17,14 @@ class Offer extends Component {
 	handleClick = (category) => {
 		if (category === 'all') {
 			this.setState({
-				categoryProducts: categoryProductsData
+				categoryProducts: categoryProductsData,
+				category
 			})
 		} else {
 			let newCategoryProductsData = categoryProductsData.filter((product) => product.category === category)
 			this.setState({
-				categoryProducts: newCategoryProductsData
+				categoryProducts: newCategoryProductsData,
+				category
 			})
 		}
 	}
@@ -33,6 +35,7 @@ class Offer extends Component {
 				name={product.name}
 				category={product.category}
 				onClick={this.handleClick.bind(this, product.category)}
+				className={`product-container ${product.category === this.state.category ? 'active' : ''}`}
 			/>
 		))
 		return (

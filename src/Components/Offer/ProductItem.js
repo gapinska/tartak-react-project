@@ -1,11 +1,11 @@
 import React from 'react'
 import Button from '@material-ui/core/Button'
 
-const ProductItem = (props) => {
+const ProductItem = ({ className, category, onClick, name }) => {
 	return (
-		<div className="product-container" category={props.category} onClick={props.onClick}>
+		<div className={className} category={category} onClick={onClick}>
 			<Button variant="contained" className="item-btn">
-				{props.name}
+				{name}
 			</Button>
 		</div>
 	)
