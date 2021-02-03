@@ -3,19 +3,14 @@ $itemBtnColorHover: (#dbb377);
 $activeBtnBgColor: #3d3d3d;
 $offerContentBgColor: #f5f5f5;
 
-.main-content {
-	background-color: $offerContentBgColor;
-}
-
 .offer-content {
 	width: 100vw;
+	background-color: $offerContentBgColor;
 }
 
 .products-container {
 	display: flex;
-
-	margin: 30px 0 30px 10px;
-
+	padding: 30px 0 30px 10px;
 	overflow: scroll;
 	box-sizing: border-box;
 
@@ -73,7 +68,7 @@ $offerContentBgColor: #f5f5f5;
 @media screen and (min-width: 1015px) {
 	.products-container {
 		justify-content: center;
-		margin: 30px 0;
+		padding: 30px 0;
 
 		.product-container {
 			min-width: 100px;
@@ -89,7 +84,7 @@ $offerContentBgColor: #f5f5f5;
 }
 
 @media screen and (min-width: 1270px) {
-	.product-container {
+	.products-container .product-container {
 		header {
 			font-size: 14px;
 		}
@@ -107,9 +102,14 @@ $offerContentBgColor: #f5f5f5;
 }
 
 @media screen and (min-width: 1350px) {
+	.MuiCardContent-root {
+		height: 300px;
+	}
+
 	.category-products {
 		display: flex;
 		flex-wrap: wrap;
+		justify-content: center;
 	}
 
 	.card-item {

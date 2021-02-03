@@ -4,6 +4,8 @@ import Card from '@material-ui/core/Card'
 import CardContent from '@material-ui/core/CardContent'
 import Typography from '@material-ui/core/Typography'
 
+import Fade from 'react-reveal/Fade'
+
 const useStyles = makeStyles({
 	root: {
 		minWidth: 275
@@ -23,19 +25,20 @@ const useStyles = makeStyles({
 
 export default function SimpleCard(props) {
 	const classes = useStyles()
-	const bull = <span className={classes.bullet}>•</span>
 
 	return (
-		<Card className={`card-item ${classes.root}`}>
-			<CardContent>
-				<Typography variant="h5" component="h2" className="product-name">
-					{props.name}
-				</Typography>
-				<Typography className={`product-feature ${classes.pos}`} color="textSecondary">
-					{props.feature}
-				</Typography>
-			</CardContent>
-		</Card>
+		<Fade bottom cascade>
+			<Card className={`card-item ${classes.root}`}>
+				<CardContent>
+					<Typography variant="h5" component="h2" className="product-name">
+						{props.name}
+					</Typography>
+					<Typography className={`product-feature ${classes.pos}`} color="textSecondary">
+						{props.feature}
+					</Typography>
+				</CardContent>
+			</Card>
+		</Fade>
 	)
 }
 
