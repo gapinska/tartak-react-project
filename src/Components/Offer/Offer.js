@@ -39,7 +39,7 @@ class Offer extends Component {
 			/>
 		))
 		return (
-			<div>
+			<div className="offer-content">
 				<div className="products-container">{productsList}</div>
 				<div className="category-products">
 					<CategoryProducts categoryProducts={this.state.categoryProducts} />
