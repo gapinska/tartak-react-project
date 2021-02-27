@@ -19,10 +19,10 @@ const Contact = () => {
 					title="Tartak Lorki"
 					width="720"
 					height="400"
-					frameborder="0"
+					frameBorder="0"
 					scrolling="no"
-					marginheight="0"
-					marginwidth="0"
+					marginHeight="0"
+					marginWidth="0"
 					src="https://maps.google.com/maps?width=720&amp;height=400&amp;hl=en&amp;q=Tartak%20Lorki+(Tartak%20Lorki)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
 				/>
 				<a href="https://www.maps.ie/route-planner.htm">Plan A Journey</a>

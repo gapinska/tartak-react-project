@@ -4,7 +4,7 @@ import Branch from "../../img/branch.png"
 
 const AboutUs = () => {
   return (
-    <div>
+    <div className="content-wrapper">
       <div className="slogan">
         TRADYCJA PRACY
         <br />Z DREWNEM OD <span>1994</span>
