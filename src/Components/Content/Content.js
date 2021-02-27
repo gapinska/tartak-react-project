@@ -8,6 +8,7 @@ import Home from '../Home/Home'
 import AboutUs from '../AboutUs/AboutUs'
 import Offer from '../Offer/Offer'
 import Contact from '../Contact/Contact'
+import ScrollToTop from '../ScrollToTop'
 
 class Content extends Component {
 	state = {
@@ -67,12 +68,14 @@ class Content extends Component {
 							</ul>
 						</div>
 						<div>
-							<Switch>
-								<Route path="/" exact component={Home} />
-								<Route path="/o-nas" component={AboutUs} />
-								<Route path="/produkty" component={Offer} />
-								<Route path="/kontakt" component={Contact} />
-							</Switch>
+							<ScrollToTop>
+								<Switch>
+									<Route path="/" exact component={Home} />
+									<Route path="/o-nas" component={AboutUs} />
+									<Route path="/produkty" component={Offer} />
+									<Route path="/kontakt" component={Contact} />
+								</Switch>
+							</ScrollToTop>
 						</div>
 					</div>
 					<div className="footer">

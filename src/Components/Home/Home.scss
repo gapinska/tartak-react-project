@@ -387,3 +387,9 @@ $contentAfterColor: #bd965a;
 		font-size: 62px;
 	}
 }
+
+@media screen and (min-width: 2550px) {
+	.info-container {
+		right: -8%;
+	}
+}

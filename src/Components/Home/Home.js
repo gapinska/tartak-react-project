@@ -104,7 +104,7 @@ const Home = () => {
 					<p className="content-3-text">
 						Tartak Lorki to przede wszystkim pełen profesjonalizm, <br />
 						precyzja wykonania i pasja tworzenia. <br />
-						Szanujemy naturę i umiejętnie korzystamy z jej dobrodziejstw <br />w oparciu o najnowsze
+						Szanujemy naturę i umiejętnie korzystamy <br />z jej dobrodziejstw w oparciu o najnowsze
 						technologie.
 					</p>
 				</div>
