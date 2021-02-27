@@ -1,215 +1,215 @@
 {
-  "product": [
-    {
-      "id": 1,
-      "category": "all",
-      "name": "wszystkie"
-    },
-    {
-      "id": 2,
-      "category": 1,
-      "name": "tarcica stolarska"
-    },
-    {
-      "id": 3,
-      "category": 2,
-      "name": "tarcica konstrukcyjna"
-    },
-    {
-      "id": 4,
-      "category": 3,
-      "name": "tarcica strugana"
-    },
-    {
-      "id": 5,
-      "category": 4,
-      "name": "drewno do wnętrz"
-    },
-    {
-      "id": 6,
-      "category": 5,
-      "name": "drewno energetyczne"
-    },
-    {
-      "id": 7,
-      "category": 6,
-      "name": "usługi"
-    }
-  ],
-  "category-products": [
-    {
-      "id": 8,
-      "category": 1,
-      "name": "tarcica stolarska",
-      "feature": "nieobrzynana w wymiarach o grubości 25-65 mm"
-    },
-    {
-      "id": 9,
-      "category": 1,
-      "name": "lamele sosnowe",
-      "feature": "to materiał ze słojem stojącym przygotowywany z myślą o producentach stolarki otworowej. Produkcja tylko na zamówienie."
-    },
-    {
-      "id": 10,
-      "category": 1,
-      "name": "fryzy sosnowe",
-      "feature": "elementy bezsęczne najczęściej pozyskiwane z tarcicy bocznej. Standardowa grubość 25mm szerokość do uzgodnienia."
-    },
-    {
-      "id": 11,
-      "category": 1,
-      "name": "wyrzynka sosnowa",
-      "feature": "występuje przy produkcji fryzów. Najczęściej wykorzystywany materiał w technologii łączenia drewna na mikrowczepy."
-    },
-    {
-      "id": 12,
-      "category": 2,
-      "name": "krawędziaki",
-      "feature": "wycinane zgodnie z indywidualnymi potrzebami klientów, zgodnie z dostarczoną specyfikacją drewna. Przygotowujemy zarówno zlecania na całe więźby dachowe, jak również i mniejsze konstrukcje typu altany lub zadaszenia. Na życzenie klienta materiał może być wysuszony lub zaimpregnowany metodą zanurzeniową."
-    },
-    {
-      "id": 13,
-      "category": 2,
-      "name": "deska dachowa",
-      "feature": "Deska dachowa, sosnowa o grubości 25 mm. Dostępna w dwóch wariantach: niezabezpieczona lub impregnowana. Używana do deskowania dachów, altan i innych konstrukcji. Dzięki zastosowaniu impregnacji zanurzeniowej materiał wykazuje właściwości ogniochronne, uzyskuje także odporność na działanie grzybów i pleśni. Deski idealnie sprawdzą się jako pokrycia dachowe pod papę lub gont bitumiczny."
-    },
-    {
-      "id": 14,
-      "category": 2,
-      "name": "deska szalunkowa",
-      "feature": "Deska wykorzystywana do szalowania fundamentów i innych prac przygotowawczych."
-    },
-    {
-      "id": 15,
-      "category": 2,
-      "name": "łaty",
-      "feature": "Dostępne w dwóch wymiarach: 50/40 oraz 60/40. Używane w konstrukcjach dachowych w celu ułożenia pokrycia dachowego. Materiał impregnowany metodą zanurzeniową, preparatem na bazie miedzi."
-    },
-    {
-      "id": 16,
-      "category": 2,
-      "name": "kontrłaty",
-      "feature": "Dostępne w wymiarze 25/50. Mocowane w układzie prostopadłym do łaty, stanowią podłoże do zbudowania konstrukcji oraz wykonywania łączeń łat dachowych. Umożliwiają m.in. dokonanie korekty położenia poszycia, montaż łat oraz stworzenie szczeliny wentylacyjnej."
-    },
-    {
-      "id": 17,
-      "category": 2,
-      "name": "bale",
-      "feature": ""
-    },
-    {
-      "id": 18,
-      "category": 3,
-      "name": "deska dachowa strugana",
-      "feature": "oferta obejmuje różne szerokości, długości mieszczą się w przedziale 3m – 4m, a grubość 22 mm."
-    },
-    {
-      "id": 19,
-      "category": 3,
-      "name": "deska okapowa",
-      "feature": "deska o szerokości 137 mm, grubości 22 mm, długości: 3m lub 4m. Wykonana z sosny, o wilgotności 12 – 14%, czterostronnie strugana."
-    },
-    {
-      "id": 20,
-      "category": 3,
-      "name": "deska elewacyjna",
-      "feature": "deska o szerokości 137 mm, grubości: 19 mm, długości 3m lub 4m. Wykonana z sosny, o wilgotności 12 – 14%, czterostronnie strugana."
-    },
-    {
-      "id": 21,
-      "category": 3,
-      "name": "deska tarasowa",
-      "feature": "deska o szerokości 135 mm, grubości: 27 mm, długości 3m lub 4m. Wykonana z sosny lub modrzewiu syberyjskiego, o wilgotności 12 – 14%."
-    },
-    {
-      "id": 22,
-      "category": 4,
-      "name": "deska na ścianę / boazeria",
-      "feature": " deska o szerokości 121 mm, grubości 14 mm, długości od 3m do 6m, z odstopniowaniem 30 cm, materiał to świerk syberyjski. Wilgotność wynosi 12 – 14%, czterostronnie strugana. Produkty pakowane po 6 szt. w paczce."
-    },
-    {
-      "id": 23,
-      "category": 4,
-      "name": "przepierzenia drewniane",
-      "feature": ""
-    },
-    {
-      "id": 24,
-      "category": 4,
-      "name": "deska podłogowa",
-      "feature": "szerokość to 135 mm, grubość 27 mm, długość 3m lub 4m. Materiał to sosna, wilgotność 12 – 14%, czterostronnie strugana, prawa strona jest lepszej jakości niż lewa."
-    },
-    {
-      "id": 25,
-      "category": 4,
-      "name": "stropopodłoga",
-      "feature": "szerokość to 135 mm, grubość 27 mm, długość 3m lub 4m. Materiał sosnowy, wilgotność 12 – 14%, czterostronnie strugana, obie strony w dobrej jakości."
-    },
-    {
-      "id": 26,
-      "category": 5,
-      "name": "zrzyna",
-      "feature": "Odpad poprodukcyjny, który wykorzystywany jest do produkcji płyt wiórowych, biomasy oraz jako topnik w hutnictwie. W ostatnim czasie swoje zastosowanie znalazł również w ogrodnictwie, jako zamiennik kory – ozdabia rabaty."
-    },
-    {
-      "id": 27,
-      "category": 5,
-      "name": "trocina",
-      "feature": "Odpad poprodukcyjny, wykorzystywany do produkcji pelletu, brykietu oraz jako naturalny nawóz organiczny."
-    },
-    {
-      "id": 28,
-      "category": 5,
-      "name": "obladry",
-      "feature": "Odpad poprodukcyjny, stosowany głównie jako drewno opałowe. Pakowany w paczki po ok. 2m3. Produkt dostępny od ręki."
-    },
-    {
-      "id": 29,
-      "category": 5,
-      "name": "drewno kawałkowe",
-      "feature": "Suche elementy odpadowe, idealnie sprawdza się jako drewno opałowe. Składowane w kontenerach po ok. 2m3. Produkt od razu nadaje się do wykorzystania (nie trzeba przecinać na mniejsze elementy)."
-    },
-    {
-      "id": 30,
-      "category": 5,
-      "name": "kora",
-      "feature": "Stosowana głównie jako element ozdobny w ogrodnictwie."
-    },
-    {
-      "id": 31,
-      "category": 6,
-      "name": "fachowe doradztwo",
-      "feature": "Wszystkim klientom służymy fachową poradą na każdym etapie realizacji zamówienia. Proponujemy odpowiedni dobór surowca oraz właściwy sposób jego obróbki. Historia naszego tartaku sięga 1994 roku. Dwupokoleniowa tradycja pracy z drewnem, zapewnia bezcenne doświadczenie, które tworzy solidny fundament dla nowoczesnych technologii i nowatorskich rozwiązań współczesnych czasów. Charakteryzuje nas wysoka jakość produktów oraz dbałość o zadowolenie klientów."
-    },
-    {
-      "id": 32,
-      "category": 6,
-      "name": "przetarcie drewna",
-      "feature": ""
-    },
-    {
-      "id": 33,
-      "category": 6,
-      "name": "impregnacja",
-      "feature": "Na życzenie klienta materiał poddawany jest impregnacji, metodą zanurzeniową. Preparaty powstają na bazie miedzi, dzięki czemu nie zachodzi żadna reakcja pomiędzy drewnem a pokryciem dachowym. Cykl impregnowania trwa ok. 5 – 6 godzin. Impregnacja drewna chroni materiał przed korozją, szkodnikami i grzybami."
-    },
-    {
-      "id": 34,
-      "category": 6,
-      "name": "suszenie",
-      "feature": "Na terenie zakładu znajdują się dwie suszarnie komorowe. Cykl suszenia dobierany jest po uwzględnieniu następujących parametrów: rodzaju drewna, przekroju oraz długości a także żądaną wilgotność końcową. Dodatkowo suszenie komorowe skutecznie eliminuje wszelkie szkodniki i grzyby."
-    },
-    {
-      "id": 35,
-      "category": 6,
-      "name": "struganie",
-      "feature": "Na życzenie klienta materiał poddawany jest struganiu, czyli wyrównywaniu i wygładzeniu powierzchni, powoduje to również zmniejszenie grubości drewna."
-    },
-    {
-      "id": 36,
-      "category": 6,
-      "name": "transport",
-      "feature": "Zapewniamy transport wraz z rozładunkiem na miejsce wskazane przez klienta."
-    }
-  ]
+	"product": [
+		{
+			"id": 1,
+			"category": "all",
+			"name": "wszystkie"
+		},
+		{
+			"id": 2,
+			"category": 1,
+			"name": "tarcica stolarska"
+		},
+		{
+			"id": 3,
+			"category": 2,
+			"name": "tarcica konstrukcyjna"
+		},
+		{
+			"id": 4,
+			"category": 3,
+			"name": "tarcica strugana"
+		},
+		{
+			"id": 5,
+			"category": 4,
+			"name": "drewno do wnętrz"
+		},
+		{
+			"id": 6,
+			"category": 5,
+			"name": "drewno energetyczne"
+		},
+		{
+			"id": 7,
+			"category": 6,
+			"name": "usługi"
+		}
+	],
+	"category-products": [
+		{
+			"id": 8,
+			"category": 1,
+			"name": "tarcica stolarska",
+			"feature": "nieobrzynana w wymiarach o grubości 25-65 mm"
+		},
+		{
+			"id": 9,
+			"category": 1,
+			"name": "lamele sosnowe",
+			"feature": "to materiał ze słojem stojącym przygotowywany z myślą o producentach stolarki otworowej. Produkcja tylko na zamówienie."
+		},
+		{
+			"id": 10,
+			"category": 1,
+			"name": "fryzy sosnowe",
+			"feature": "elementy bezsęczne najczęściej pozyskiwane z tarcicy bocznej. Standardowa grubość 25mm szerokość do uzgodnienia."
+		},
+		{
+			"id": 11,
+			"category": 1,
+			"name": "wyrzynka sosnowa",
+			"feature": "występuje przy produkcji fryzów. Najczęściej wykorzystywany materiał w technologii łączenia drewna na mikrowczepy."
+		},
+		{
+			"id": 12,
+			"category": 2,
+			"name": "krawędziaki",
+			"feature": "wycinane zgodnie z indywidualnymi potrzebami klientów, zgodnie z dostarczoną specyfikacją drewna. Przygotowujemy zarówno zlecania na całe więźby dachowe, jak również i mniejsze konstrukcje typu altany lub zadaszenia. Na życzenie klienta materiał może być wysuszony lub zaimpregnowany metodą zanurzeniową."
+		},
+		{
+			"id": 13,
+			"category": 2,
+			"name": "deska dachowa",
+			"feature": "Deska dachowa, sosnowa o grubości 25 mm. Dostępna w dwóch wariantach: niezabezpieczona lub impregnowana. Używana do deskowania dachów, altan i innych konstrukcji. Dzięki zastosowaniu impregnacji zanurzeniowej materiał wykazuje właściwości ogniochronne, uzyskuje także odporność na działanie grzybów i pleśni. Deski idealnie sprawdzą się jako pokrycia dachowe pod papę lub gont bitumiczny."
+		},
+		{
+			"id": 14,
+			"category": 2,
+			"name": "deska szalunkowa",
+			"feature": "Deska wykorzystywana do szalowania fundamentów i innych prac przygotowawczych."
+		},
+		{
+			"id": 15,
+			"category": 2,
+			"name": "łaty",
+			"feature": "Dostępne w dwóch wymiarach: 50/40 oraz 60/40. Używane w konstrukcjach dachowych w celu ułożenia pokrycia dachowego. Materiał impregnowany metodą zanurzeniową, preparatem na bazie miedzi."
+		},
+		{
+			"id": 16,
+			"category": 2,
+			"name": "kontrłaty",
+			"feature": "Dostępne w wymiarze 25/50. Mocowane w układzie prostopadłym do łaty, stanowią podłoże do zbudowania konstrukcji oraz wykonywania łączeń łat dachowych. Umożliwiają m.in. dokonanie korekty położenia poszycia, montaż łat oraz stworzenie szczeliny wentylacyjnej."
+		},
+		{
+			"id": 17,
+			"category": 2,
+			"name": "bale",
+			"feature": "materiał sęczny lub bezsęczny o szerokim zastosowaniu zarówno w stolarstwie jak i budownictwie."
+		},
+		{
+			"id": 18,
+			"category": 3,
+			"name": "deska dachowa strugana",
+			"feature": "oferta obejmuje różne szerokości, długości mieszczą się w przedziale 3m – 4m, a grubość 22 mm."
+		},
+		{
+			"id": 19,
+			"category": 3,
+			"name": "deska okapowa",
+			"feature": "deska o szerokości 137 mm, grubości 22 mm, długości: 3m lub 4m. Wykonana z sosny, o wilgotności 12 – 14%, czterostronnie strugana."
+		},
+		{
+			"id": 20,
+			"category": 3,
+			"name": "deska elewacyjna",
+			"feature": "deska o szerokości 137 mm, grubości: 19 mm, długości 3m lub 4m. Wykonana z sosny, o wilgotności 12 – 14%, czterostronnie strugana."
+		},
+		{
+			"id": 21,
+			"category": 3,
+			"name": "deska tarasowa",
+			"feature": "deska o szerokości 135 mm, grubości: 27 mm, długości 3m lub 4m. Wykonana z sosny lub modrzewiu syberyjskiego, o wilgotności 12 – 14%."
+		},
+		{
+			"id": 22,
+			"category": 4,
+			"name": "deska na ścianę / boazeria",
+			"feature": " deska o szerokości 121 mm, grubości 14 mm, długości od 3m do 6m, z odstopniowaniem 30 cm, materiał to świerk syberyjski. Wilgotność wynosi 12 – 14%, czterostronnie strugana. Produkty pakowane po 6 szt. w paczce."
+		},
+		{
+			"id": 23,
+			"category": 4,
+			"name": "przepierzenia drewniane",
+			"feature": "rozwiązanie coraz częściej spotykane w nowoczesnym budownictwie, daje niepowtarzalny efekt wydzielenia stref prywatności z otwartych przestrzeni wielkogabarytowych."
+		},
+		{
+			"id": 24,
+			"category": 4,
+			"name": "deska podłogowa",
+			"feature": "szerokość to 135 mm, grubość 27 mm, długość 3m lub 4m. Materiał to sosna, wilgotność 12 – 14%, czterostronnie strugana, prawa strona jest lepszej jakości niż lewa."
+		},
+		{
+			"id": 25,
+			"category": 4,
+			"name": "stropopodłoga",
+			"feature": "szerokość to 135 mm, grubość 27 mm, długość 3m lub 4m. Materiał sosnowy, wilgotność 12 – 14%, czterostronnie strugana, obie strony w dobrej jakości."
+		},
+		{
+			"id": 26,
+			"category": 5,
+			"name": "zrzyna",
+			"feature": "Odpad poprodukcyjny, który wykorzystywany jest do produkcji płyt wiórowych, biomasy oraz jako topnik w hutnictwie. W ostatnim czasie swoje zastosowanie znalazł również w ogrodnictwie, jako zamiennik kory – ozdabia rabaty."
+		},
+		{
+			"id": 27,
+			"category": 5,
+			"name": "trocina",
+			"feature": "Odpad poprodukcyjny, wykorzystywany do produkcji pelletu, brykietu oraz jako naturalny nawóz organiczny."
+		},
+		{
+			"id": 28,
+			"category": 5,
+			"name": "obladry",
+			"feature": "Odpad poprodukcyjny, stosowany głównie jako drewno opałowe. Pakowany w paczki po ok. 2m3. Produkt dostępny od ręki."
+		},
+		{
+			"id": 29,
+			"category": 5,
+			"name": "drewno kawałkowe",
+			"feature": "Suche elementy odpadowe, idealnie sprawdza się jako drewno opałowe. Składowane w kontenerach po ok. 2m3. Produkt od razu nadaje się do wykorzystania (nie trzeba przecinać na mniejsze elementy)."
+		},
+		{
+			"id": 30,
+			"category": 5,
+			"name": "kora",
+			"feature": "Stosowana głównie jako element ozdobny w ogrodnictwie."
+		},
+		{
+			"id": 31,
+			"category": 6,
+			"name": "fachowe doradztwo",
+			"feature": "Wszystkim klientom służymy fachową poradą na każdym etapie realizacji zamówienia. Proponujemy odpowiedni dobór surowca oraz właściwy sposób jego obróbki. Historia naszego tartaku sięga 1994 roku. Dwupokoleniowa tradycja pracy z drewnem, zapewnia bezcenne doświadczenie, które tworzy solidny fundament dla nowoczesnych technologii i nowatorskich rozwiązań współczesnych czasów. Charakteryzuje nas wysoka jakość produktów oraz dbałość o zadowolenie klientów."
+		},
+		{
+			"id": 32,
+			"category": 6,
+			"name": "przetarcie drewna",
+			"feature": "realizujemy na trakach pionowych, taśmowych i tarczowych."
+		},
+		{
+			"id": 33,
+			"category": 6,
+			"name": "impregnacja",
+			"feature": "Na życzenie klienta materiał poddawany jest impregnacji, metodą zanurzeniową. Preparaty powstają na bazie miedzi, dzięki czemu nie zachodzi żadna reakcja pomiędzy drewnem a pokryciem dachowym. Cykl impregnowania trwa ok. 5 – 6 godzin. Impregnacja drewna chroni materiał przed korozją, szkodnikami i grzybami."
+		},
+		{
+			"id": 34,
+			"category": 6,
+			"name": "suszenie",
+			"feature": "Na terenie zakładu znajdują się dwie suszarnie komorowe. Cykl suszenia dobierany jest po uwzględnieniu następujących parametrów: rodzaju drewna, przekroju oraz długości a także żądaną wilgotność końcową. Dodatkowo suszenie komorowe skutecznie eliminuje wszelkie szkodniki i grzyby."
+		},
+		{
+			"id": 35,
+			"category": 6,
+			"name": "struganie",
+			"feature": "Na życzenie klienta materiał poddawany jest struganiu, czyli wyrównywaniu i wygładzeniu powierzchni, powoduje to również zmniejszenie grubości drewna."
+		},
+		{
+			"id": 36,
+			"category": 6,
+			"name": "transport",
+			"feature": "Zapewniamy transport wraz z rozładunkiem na miejsce wskazane przez klienta."
+		}
+	]
 }
