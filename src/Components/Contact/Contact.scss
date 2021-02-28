@@ -59,6 +59,18 @@
 
 @media screen and (min-width: 1630px) {
 	.map-container {
+		margin: 108px 0;
+	}
+}
+
+@media screen and (min-width: 1900px) {
+	.map-container {
+		margin: 131px 0;
+	}
+}
+
+@media screen and (min-width: 2250px) {
+	.map-container {
 		margin: 271px 0;
 	}
 }
