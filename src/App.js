@@ -1,15 +1,17 @@
-import React, { Component } from "react"
+import React, { useEffect } from "react"
 import "./App.scss"
 import Content from "./Components/Content/Content"
 
-class App extends Component {
-  render() {
-    return (
-      <>
-        <Content />
-      </>
-    )
-  }
+const App = () => {
+  useEffect(() => {
+    const ReactPixel = require("react-facebook-pixel")
+    ReactPixel.default.init("310472617255533")
+  }, [])
+  return (
+    <>
+      <Content />
+    </>
+  )
 }
 
 export default App
