@@ -1,5 +1,6 @@
 import React from 'react'
 import './Warranty.scss'
+import pdf from '../../karta-produktow.pdf'
 
 const Warranty = () => {
     return (
@@ -123,6 +124,11 @@ const Warranty = () => {
                 4. Niniejsza gwarancja zastępuje wszystkie inne gwarancje wyraźne bądź domniemane, w tym w szczególności
                 gwarancję przydatności handlowej i gwarancję przydatności produktu do konkretnego przeznaczenia.<br/>
             </p>
+            <div className='container-pdf-document'>
+                <a target="_blank" rel="noopener noreferrer" className='pdf-document' href={pdf}>
+                    Zapoznaj się z kartą produktów
+                </a>
+            </div>
         </div>
     )
 }
