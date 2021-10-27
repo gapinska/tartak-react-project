@@ -7,6 +7,7 @@ import MenuClose from '../../img/menu-close.png'
 import Home from '../Home/Home'
 import AboutUs from '../AboutUs/AboutUs'
 import Offer from '../Offer/Offer'
+import Warranty from "../Warranty/Warranty";
 import Contact from '../Contact/Contact'
 import ScrollToTop from '../ScrollToTop'
 
@@ -63,6 +64,9 @@ class Content extends Component {
 									<NavLink to="/produkty">Produkty</NavLink>
 								</li>
 								<li className="list-item">
+									<NavLink to="/gwarancja">Gwarancja</NavLink>
+								</li>
+								<li className="list-item">
 									<NavLink to="/kontakt">Kontakt</NavLink>
 								</li>
 							</ul>
@@ -73,6 +77,7 @@ class Content extends Component {
 									<Route path="/" exact component={Home} />
 									<Route path="/o-nas" component={AboutUs} />
 									<Route path="/produkty" component={Offer} />
+									<Route path="/gwarancja" component={Warranty} />
 									<Route path="/kontakt" component={Contact} />
 								</Switch>
 							</ScrollToTop>
@@ -89,6 +94,9 @@ class Content extends Component {
 								</li>
 								<li className="list-item">
 									<NavLink to="/produkty">Produkty</NavLink>
+								</li>
+								<li className="list-item">
+									<NavLink to="/gwarancja">Gwarancja</NavLink>
 								</li>
 								<li className="list-item">
 									<NavLink to="/kontakt">Kontakt</NavLink>
