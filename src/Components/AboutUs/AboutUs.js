@@ -1,9 +1,12 @@
 import "./AboutUs.scss"
 import React from "react"
 import Branch from "../../img/branch.png"
+import Certificate from '../../img/certificate.jpg'
+
 
 const AboutUs = () => {
   return (
+    <div>
     <div className="content-wrapper">
       <div className="slogan">
         TRADYCJA PRACY
@@ -42,6 +45,11 @@ const AboutUs = () => {
           </div>
         </div>
       </div>
+    </div>
+    <div>
+
+    </div>
+    <img src={Certificate} alt="" className="certificate"/>
     </div>
   )
 }
